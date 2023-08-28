@@ -20,6 +20,6 @@ struct Person {
     }
 }
 
-let abhishek = Person(name: "Abhishek", age: 25, address: "Bangalore", gender: "Male")
+let abhishek = Person(name: "Abhishek", age: 22, address: "Bangalore", gender: "Male")
 let abhistin = Person(address: "Bangalore")
 
